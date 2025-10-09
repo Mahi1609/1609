@@ -1,0 +1,19 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+sqlmodel==0.0.8
+feedparser==6.0.10
+requests==2.31.0
+beautifulsoup4==4.12.2
+python-dotenv==1.0.0
+celery==5.3.1
+redis==4.6.0
+transformers==4.40.0
+torch==2.2.2   # if you have CPU only, this will still install; choose a CPU wheel appropriate to your setup if needed
+newspaper3k==0.2.8
+readability-lxml==0.8.1
+python-dateutil==2.8.2
+lxml
+beautifulsoup4
+requests
+pymongo
+

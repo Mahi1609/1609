@@ -1,0 +1,20 @@
+# .gitignore
+__pycache__/
+*.pyc
+venv/
+.env
+.env.local
+backups/
+data/raw_pages/
+data/*.db
+*.sqlite
+*.sqlite3
+*.log
+.DS_Store
+.idea/
+.vscode/
+# ignore DBs stored under data/
+data/*.db
+data/*.sqlite
+backups/
+*.db
